@@ -1,0 +1,5 @@
+package com.spring.henallux.controller;
+
+public class WelcomeController {
+
+}

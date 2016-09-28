@@ -1,0 +1,3 @@
+com\spring\henallux\config\MainConfig.class
+com\spring\henallux\Application.class
+com\spring\henallux\controller\WelcomeController.class

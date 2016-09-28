@@ -1,0 +1,5 @@
+package com.spring.henallux.config;
+
+public class MainConfig {
+
+}
