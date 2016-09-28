@@ -20,7 +20,7 @@
 		<div>
 			<tiles:insertAttribute name="main-content"/>
 		</div>
-		Welcome in your magic world
+		Welcome in your magic world!
 		<img src ='<spring:url value="/images/mario.png"/>'/>
 		
 		<footer>

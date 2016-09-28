@@ -639,3 +639,91 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 2016-09-28 20:11:01,838 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
 2016-09-28 20:11:55,185 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift
 2016-09-28 20:11:55,185 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2016-09-28 20:13:58,737 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:13:58,737 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:13:58,737 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:13:58,739 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:13:58,739 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:15:33,212 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:15:33,213 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:15:33,215 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:15:33,216 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:15:33,216 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:15:39,242 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:15:39,242 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:15:39,243 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:15:39,244 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:15:39,244 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:15:56,785 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift
+2016-09-28 20:15:56,785 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2016-09-28 20:16:26,366 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:16:26,367 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:16:26,368 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:16:26,369 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:16:26,369 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:16:38,467 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:16:38,467 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:16:38,468 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:16:38,469 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:16:38,469 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:18:10,990 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:18:10,990 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:18:10,991 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:18:10,992 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:18:10,992 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:19:35,525 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:19:35,525 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:19:35,526 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:19:35,529 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:19:35,529 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:20:30,255 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:20:30,255 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:20:30,259 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:20:30,260 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:20:30,260 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:20:45,101 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:20:45,101 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:20:45,105 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:20:45,105 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:20:45,106 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:21:15,883 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:21:15,883 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:21:15,884 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:21:15,885 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:21:15,885 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:22:24,794 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:22:24,794 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:22:24,794 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:22:24,797 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:22:24,797 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:22:50,557 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift
+2016-09-28 20:22:50,557 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2016-09-28 20:23:20,678 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:23:20,678 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:23:20,678 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:23:20,681 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:23:20,681 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:24:36,151 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:24:36,151 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:24:36,152 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:24:36,153 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:24:36,153 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:24:47,032 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift
+2016-09-28 20:24:47,033 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2016-09-28 20:25:07,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:25:07,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:25:07,918 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:25:07,919 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:25:07,919 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:30:43,386 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:30:43,386 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:30:43,387 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:30:43,388 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:30:43,388 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:30:58,607 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:30:58,607 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-28 20:30:58,608 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-28 20:30:58,609 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-28 20:30:58,609 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
+2016-09-28 20:31:10,712 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift
+2016-09-28 20:31:10,712 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
