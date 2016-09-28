@@ -1,0 +1,20 @@
+<%@ include file="../include/importTags.jsp"%>
+<%@ taglib uri="http://tiles.apache.org/tags-tiles" prefix ="tiles"%>
+
+<!DOCTYPE>
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<link type="text/css" href="<spring:url value='/css/first.css' />" rel="StyleSheet">
+		
+		<title>Welcome</title>
+	</head>
+	
+	<body>
+		<div>
+			<tiles:insertAttribute name="main-content"/>
+		</div>
+	</body>
+</html>
