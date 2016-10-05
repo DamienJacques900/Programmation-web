@@ -9,7 +9,7 @@
 	</head>
 	
 	<body>
-		Welcome in our magic world! Coucou
+		Welcome in our magic world!
 		<h1>Validation</h1>
 		<form:form	id="form"
 					method="POST"
