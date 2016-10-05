@@ -1097,3 +1097,8 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 2016-10-05 15:17:14,091 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-10-05 15:17:14,119 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-10-05 15:17:14,119 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
+2016-10-05 15:21:28,058 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 15:21:28,132 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 15:21:28,183 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 15:21:28,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 15:21:28,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
