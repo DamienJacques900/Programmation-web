@@ -1,0 +1,6 @@
+package com.spring.henallux.model;
+
+public class MagicKeyForm 
+{
+	private String magicKey;
+}
