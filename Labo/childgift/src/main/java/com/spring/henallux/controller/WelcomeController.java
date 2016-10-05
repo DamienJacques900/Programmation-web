@@ -12,6 +12,6 @@ public class WelcomeController
 	@RequestMapping(method=RequestMethod.GET)
 	public String home(Model model)
 	{
-		return "welcome";
+		return "integrated:welcome";
 	}
 }

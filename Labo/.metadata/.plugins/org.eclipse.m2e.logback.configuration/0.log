@@ -727,3 +727,42 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 2016-09-28 20:30:58,609 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift\src\test\resources
 2016-09-28 20:31:10,712 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documents\Henallux\BAC 3 IG 2016-2017\1ère quadri\Programmation Web orienté objet\Exercices\Labo\childgift
 2016-09-28 20:31:10,712 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2016-10-05 13:40:38,080 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.henallux:childgift:0.0.1-SNAPSHOT @ C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\pom.xml.
+2016-10-05 13:41:15,288 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:41:15,301 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 13:41:15,341 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 13:41:15,936 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.henallux:childgift:0.0.1-SNAPSHOT @ C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\pom.xml.
+2016-10-05 13:41:15,939 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:41:15,939 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
+2016-10-05 13:41:20,680 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:41:20,706 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 13:41:20,713 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 13:41:20,719 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:41:20,720 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
+2016-10-05 13:43:03,044 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:43:03,048 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 13:43:03,057 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 13:43:03,065 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:43:03,081 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
+2016-10-05 13:43:36,449 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift
+2016-10-05 13:43:36,451 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2016-10-05 13:47:31,082 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:47:31,099 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 13:47:31,119 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 13:47:31,139 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:47:31,140 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
+2016-10-05 13:47:42,227 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:47:42,231 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 13:47:42,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 13:47:42,248 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:47:42,249 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
+2016-10-05 13:49:32,813 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:49:32,815 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 13:49:32,822 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 13:49:32,846 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:49:32,847 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
+2016-10-05 13:51:08,179 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:51:08,182 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-05 13:51:08,201 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-05 13:51:08,217 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-05 13:51:08,231 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Damien\Documents\Github\Programmation-web\Labo\childgift\src\test\resources
