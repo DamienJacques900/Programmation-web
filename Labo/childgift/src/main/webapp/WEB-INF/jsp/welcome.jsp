@@ -13,10 +13,10 @@
 		<h1>Validation</h1>
 		<form:form	id="form"
 					method="POST"
-					action="/childgift/welcome/send"
+					action ="/childgift/welcome/send"
 					modelAttribute="magicKeyForm">
 			<label>Magic Key :</label>
-			<input></input>
+			<form:input path="magicKey"/>
 			<button>Send</button>
 		</form:form>
 	</body>

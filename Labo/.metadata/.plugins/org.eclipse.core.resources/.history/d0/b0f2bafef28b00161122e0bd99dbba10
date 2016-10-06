@@ -1,0 +1,10 @@
+package com.spring.henallux.service;
+
+import java.util.ArrayList;
+
+import com.spring.henallux.model.Hobby;
+
+public class HobbiesService 
+{
+	private ArrayList<Hobby> listHobby;
+}

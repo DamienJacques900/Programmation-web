@@ -21,7 +21,9 @@ public class WelcomeController
 	
 	@RequestMapping(value="/send", method=RequestMethod.POST)
 	public String getFormData(Model model, @ModelAttribute(value="magicKeyForm") MagicKeyForm form)
-	{
-		return ""; //avant de trouver le bon truc A MODIFIER !!!!!!!!!!!!!!!!!!!!!!!!
+	{	if(form.getMagicKey().equals("coucou"))
+			return "redirect:/userInscription";
+		else
+			return "integrated:keyError";
 	}
 }
