@@ -1,5 +1,0 @@
-# Local server
-server:
-  # port is used by spring-boot-admin
-  port: 8080
-  contextPath: /childgift

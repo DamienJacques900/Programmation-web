@@ -1,9 +1,0 @@
-package com.spring.henallux.model;
-
-public class Hobby 
-{
-	private String id;
-	private String name;
-	
-	
-}

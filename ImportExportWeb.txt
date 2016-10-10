@@ -1,0 +1,11 @@
+Pour export et importe en Java Web
+
+Export :
+	- Faire export
+	- General->Archive File
+	- Sélectionner tout les childgift et donner un nom au fichier
+	- Et cocher resolve and export linked resources
+Import :
+	- Faire import
+	- General->Projects from Folder or Archive
+	- Et dans directory choisir le childgift
