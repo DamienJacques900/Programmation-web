@@ -1,0 +1,11 @@
+com\spring\henallux\config\MainConfig.class
+com\spring\henallux\Application.class
+com\spring\henallux\controller\WelcomeController.class
+com\spring\henallux\model\User.class
+com\spring\henallux\model\MagicKeyForm.class
+com\spring\henallux\service\GiftService.class
+com\spring\henallux\service\HobbiesService.class
+com\spring\henallux\config\TilesConfig.class
+com\spring\henallux\model\Hobby.class
+com\spring\henallux\controller\InscriptionController.class
+com\spring\henallux\controller\GiftController.class
